@@ -37,7 +37,7 @@ function startIntroTyping() {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['javascript','python','java','typescript','reactJS'];
+  let text = ['Systems developent'];
 
   text.forEach(function (language, index) {
     typer.move(null);
